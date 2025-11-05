@@ -1,5 +1,3 @@
 export const App = () => {
-	return (<>
-		Hello React!
-	</>)
+	return <>Hello React!</>
 }
