@@ -21,7 +21,9 @@
 	},
 	"overrides": [
 		{
-			"includes": ["**/*.{js,ts,jsx,tsx}"],
+			"includes": [
+				"**/*.{js,ts,jsx,tsx}"
+			],
 			"javascript": {
 				"formatter": {
 					"quoteStyle": "single",
